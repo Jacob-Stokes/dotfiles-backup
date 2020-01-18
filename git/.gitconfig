@@ -1,0 +1,5 @@
+[user]
+	email = jacob@jacobstokes.com
+	name = Jacob
+[credential]
+	helper = store
