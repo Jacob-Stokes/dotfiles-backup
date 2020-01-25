@@ -118,3 +118,10 @@ fi
 
 
 
+alias dotfiles='/usr/bin/git --git-dir=/home/jacob/dotfiles/.git --work-tree=/home/jacob/dotfiles'
+export PATH=$PATH:/usr/local/bin
+export PATH=$PATH:$HOME/.local/bin
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+
+

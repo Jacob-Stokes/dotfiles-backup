@@ -383,3 +383,238 @@ cd /home
 echo $HOME
 ls
 whoami
+emacs
+emacs
+cd dotfiles
+ls
+git status
+git push 
+git push origin master
+git commit -m "Added bash folder"
+git push origin master
+cd dotfiles
+cd dotfiles
+ls
+git status
+git add bash
+git status
+git add bash
+git status
+git push 
+cd dotfiles
+git status
+git add emacs/
+git add git/
+git add setup.sh
+git commit -m "Added emacs, git folders; setup.sh"
+git push origin master
+git push origin
+git push
+got remote add origin https://github.com/JacobStokes/dotfiles.git
+git remote add origin https://github.com/JacobStokes/dotfiles.git
+git push 
+git push origin master
+git push --set-upstream origin master
+git push origin master
+got remote add origin https://github.com/Jacob-Stokes/dotfiles.git
+git remote add origin https://github.com/Jacob-Stokes/dotfiles.git
+git push 
+git push --set-upstream origin master
+git push 
+git status
+ls 
+git add bash
+git status
+git commit 
+cd dotfiles
+stow -v -R -t ~ git
+stow -v -R -t ~ emacs
+cd emacs
+stow -v -R -t ~ emacs
+ls emacs
+cd ..
+stow -v -R -t ~ emacs
+./setupsh
+./setup.sh
+stow -h
+cd .dotfiles/
+ls
+cd .emacs.d/
+touch init.el
+emacs
+touch test.sh
+'/home/jacob/test.sh' 
+chmod +x test.sh
+'/home/jacob/test.sh' 
+cd dotfiles
+./setup.sh 
+stow emacs
+ls
+cd .emacs.d/
+ls
+stow emacs
+cd ..
+stow -v -R -t ~emacs
+cd .emacs.d/
+stow -R -t ~emacs
+cd ,,
+cd ..
+cd ~/
+cd dotfiles
+ls
+cd emacs
+stow -R -t ~emacs
+
+stow -R -t ~emacs
+ls 
+cd ..
+stow -R -t ~emacs
+stow -R -t ~bash
+stow -R -t ~ bash
+echo $PATH
+cd /usr
+cd local
+ls
+cd bin
+ls
+cd dotfiles
+./setup.sh 
+echo $PATH
+sudo ./setup.sh
+./setup.sh 
+chmod +x setup.sh
+./setup.sh 
+sudo apt-get install pandoc
+pandoc
+sudo apt-get install texlive-full
+cd zotero/
+zotero.desktop
+./zotero.desktop
+java
+sudo apt install default-jre
+cd zotero
+zotero.jar
+java zotero.jar
+./zotero.jar
+dotfiles
+dotfiles status
+alias
+unalias dotfiles
+alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/.git --work-tree=$HOME/dotfiles'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME/dotfiles'
+dotfiles
+dotfiles status
+emacs
+dotfiles
+unalias dotfiles
+alias
+unalias
+unalias dotfiles
+unalias dotfile
+unalias dotfiles
+alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+unalias config
+echo "alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'" >> $HOME/.bashrc
+dotfiles
+dotfiles status
+cd dotfiles
+git status
+dotfiles status
+alias
+dotfiles push
+alias
+unalias dotfiles
+alias config='/usr/bin/git --git-dir=$HOME/config/.git --work-tree=$HOME'
+config
+config status
+unalias config
+alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/.git --work-tree=$HOME'
+dotfiles status
+alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME/dotfiles'
+cd dotfiles
+git status
+pwd
+sudo apt-get update
+sudo apt-get install virtualbox-guest-x11
+sudo VBoxClient --clipboard
+emacs
+sudo apt-get install zotero
+wget -qO- https://github.com/retorquere/zotero-deb/releases/download/apt-get/install.sh | sudo bash
+sudo apt install zotero
+alias dotfiles='/usr/bin/git --git-dir=$Home/dotfiles/ --work-tree=$HOME'
+dotfiles
+echo "alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/.bashrc
+echo "alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'" >> $HOME/.bashrc
+'/home/jacob/zotero/zotero.desktop' 
+cd zotero/
+./zotero
+emacs
+sudo apt update
+sudo apt -y upgrade
+sudo reboot
+stack install hakyll
+hakyll-init testblog
+hakyll
+stack install hakyll --resolver lts-12.26
+echo 'export PATH=$PATH:/usr/local/bin' >> $HOME/.bashrc
+echo 'export PATH=$PATH:$HOME/.local/bin' >> $HOME/.bashrc
+source /.bashrc
+source ./bashrc
+cd hugo/
+cd testing/
+cd content
+ls
+cd test1/content/
+ls
+cd ps
+cd posts/
+ls
+nano my-first-post.md 
+cd ..
+cd test1/
+hugo server -D
+hugo -D
+hugo server -D
+cd scratch
+ls
+pandoc -s --bilbiography Testing.bib --flter pandoc-citeproc test.md -o test.html
+pandoc --help
+pandoc -s --bilbiography Testing.bib --flter pandoc-citeproc test.md -o test.html
+pandoc -s --bilbiography Testing.bib --filter pandoc-citeproc test.md -o test.html
+pandoc -s --bibliography Testing.bib --filter pandoc-citeproc test.md -o test.html
+sudo apt-get update
+sudo apt-get install pandoc pandoc-citeproc
+curl -sSL https://get.haskellstack.org/ | sh
+sudo apt install curl
+curl -sSL https://get.haskellstack.org/ | sh
+source ~/.profile
+echo $PATH
+source ~/.profile
+source ~/.bashrc
+echo $PATH
+ls
+cd local
+cd ..
+ls
+cd jacob/
+ls
+cd .local
+ls
+cd share/
+ls
+source ~/.bashrc
+echo $PATH
+sudo apt-get install hugo
+mkdir hugo
+cd hugo
+mkdir testing
+cd testing/
+hugo new site test1
+cd test1/
+git init
+git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+echo 'theme = "ananke"' >> config.toml
+hugo new posts/my-first-post.md
+ls
+'/home/jacob/zotero/zotero' 
